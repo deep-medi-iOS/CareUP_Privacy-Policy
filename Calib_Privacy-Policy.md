@@ -1,86 +1,86 @@
 # Privacy Policy
 
-CareUP(Calibration) establishes and discloses this Privacy Policy in accordance with the Personal Information Protection Act to protect the personal information and rights of users and to smoothly process user grievances related to personal information.
+CareUP(補正)は個人情報保護法に基づき、利用者の個人情報保護および権益を保護するため、次のような処理方針を定めています。
 
-The Company will notify users of any amendments to this Privacy Policy through the App screen or website announcements.
+当社は個人情報処理方針を改定する場合、アプリ画面およびウェブサイトのお知らせを通じて告知いたします。
 
-### 1. Purpose of Processing Personal Information
+### 1. 個人情報の処理目的
 
-The Company complies with the responsibilities and obligations prescribed by the 「Act on Promotion of Information and Communications Network Utilization and Information Protection, etc.」 and the 「Personal Information Protection Act」 in managing personal information collected from service users.
+本サービスの利用者から収集した個人情報を管理するにあたり、「情報通信網利用促進及び情報保護等に関する法律」、「個人情報保護法」で規定している責任と義務を遵守しています。
 
-The Company may collect non-personally identifiable information that is not directly related to a specific individual for iOS service functions and reward-based advertising services.
+当社は、iOSサービス機能を利用するための機能やリワード用広告サービス等において、特定の個人と直接的な関連がない、個人識別が不可能な情報を収集することがあります。
 
-### 2. Status of Personal Information Files
+### 2. 個人情報ファイルの現状
 
-The Company does not store or use separate personal information files or cookies.
+当社は、別途の個人情報ファイルおよびクッキー（Cookie）を保存・使用しません。
 
-However, information used by store services and advertising services is processed through the SDKs of those respective services. This information is not stored by the Company.
+ただし、ストアサービスが利用する情報および広告サービスが利用する情報は、当該サービスのSDKを経て利用されることになります。これは当社に保存される情報ではありません。
 
-Users should contact the respective services (Apple and each advertising media) directly for inquiries regarding such data.
+利用者がこれについて疑問がある場合は、該当サービス（アップルおよび各広告メディア）に直接連絡する必要があります。
 
-### 3. Processing and Retention Period of Personal Information
+### 3. 個人情報の処理および保有期間
 
-The items, purposes, and retention periods of personal information collected by the Company are as follows:
+当社で収集する個人情報の収集項目、目的、保有期間は次の通りです。
 
-| Purpose of Collection | Collected Items | Retention / Use Period |
+| 収集目的 | 収集項目 | 保有 / 利用期間 |
 | --- | --- | --- |
-| User Identification | Real-time facial landmark data | Destroyed immediately after identification |
-| Storage of cardiovascular calibration results | Cardiovascular indicators, heart rate, consultation details | Destroyed immediately upon membership withdrawal |
+| ユーザー識別 | リアルタイムの顔特徴点データ | ユーザー識別後、直ちに破棄 |
+| 心血管指標の補正結果の保存 | 心血管指標、心拍数、相談内容 | 会員退会時に直ちに破棄 |
 
-### 4. Collection and Processing of Facial Data
+### 4. 顔データの収集および処理
 
-(1) Purpose of Collection and Processing
+(1) 顔データの収集および処理目的
 
-- The Company processes the user's facial data in real-time through the camera to provide the 'Calibration Function' within the app.
+- 当社はアプリ内の「補正機能」提供のため、利用者の顔データをカメラを通じてリアルタイムで処理します。
 
-(2) Processing Method and Storage
+(2) 処理方式および保管
 
-- Facial data (camera frames) collected from the camera during the measurement process is processed only temporarily (approx. 1/30 sec) within the device's memory. This data is used solely for real-time analysis, and **all frames are destroyed in an unrecoverable manner immediately upon completion of the measurement.**
+- 測定過程でカメラから収集された顔データ（カメラフレーム）は、機器内部のメモリ上でのみ一時的（約1/30秒）に処理されます。当該データはリアルタイム分析の目的でのみ使用され、**測定終了後、直ちにすべてのフレームは復旧不可能な方法で破棄**されます。
 
-(3) Storage and Transmission
+(3) 保存および転送
 
-- The Company does not permanently store the user's facial images in any form nor transmit them to external servers or third parties.
-    - Wellness Indicators (e.g., heart rate): Stored on the Company's encrypted server (only upon user opt-in).
-    - Facial Feature Vectors (for identification): Encrypted via TLS 1.2+ during transmission to AWS Rekognition (for matching purposes only) and protected with AES-256 encryption during storage.
+- 当社は利用者の顔画像をいかなる形式でも永久に保存したり、外部サーバーおよび第三者に転送したりすることはありません。
+    - ウェルネス指標（例：心拍数）：自社暗号化サーバー（ユーザーのオプトイン時）
+    - 顔特徴ベクトル（識別用）：AWS Rekognition（識別マッチング専用）転送時にTLS 1.2+暗号化、保存時にAES-256暗号化を適用
 
-(4) Protective Measures
+(4) 保護措置
 
-- The Company complies with relevant laws and applies the latest security technologies to ensure that sensitive biometric information is safely protected.
+- 当社は関連法令を遵守し、利用者の機密性の高い生体情報が安全に保護されるよう、最新のセキュリティ技術を適用して処理します。
 
-### 5. Provision of Personal Information to Third Parties
+### 5. 個人情報の第三者提供に関する事項
 
-The Company does not provide personal information to third parties.
+当社は個人情報を第三者に提供していません。
 
-### 6. Outsourcing of Personal Information Processing.
+### 6. 個人情報処理の委託
 
-The Company does not outsource the processing of personal information.
+当社は個人情報の処理を委託していません。
 
-### 7. Rights, Obligations of Data Subjects, and Exercise Methods
+### 7. 情報主体の権利、義務およびその行使方法
 
-Users may exercise their rights as data subjects:
+利用者は個人情報主体として権利を行使することができます。
 
-1. Request for inspection of personal information
-2. Request for correction in case of errors
-3. Request for deletion
-4. Request for suspension of processing
+1. 個人情報の閲覧要求
+2. 誤り等がある場合の訂正要求
+3. 削除要求
+4. 処理停止要求
 
-### 8. Destruction of Personal Information
+### 8. 個人情報の破棄
 
-The App is a standalone application that uses a separate server and deletes all information immediately upon membership withdrawal.
+当社のアプリケーションは独立実行方式のアプリケーションであり、別途のサーバーを使用し、会員退会時にすべての情報を削除します。
 
-### 9. Items of Personal Information Processed
+### 9. 処理する個人情報の項目
 
-1. CareUP(Calibration) requests the following permissions for the purpose of providing services:
+1. CareUP(補正)はサービス提供を目的として、アプリ利用のために以下の権限を要求します。
 
-(1) Camera Access Permission
+(1) カメラアクセス権限
 
-- The App requires camera access to identify users and measure health information (cardiovascular indicators, heart rate).
+- アプリは利用者識別および健康情報（心血管指標、心拍数）測定のためにカメラアクセス権限を要求します。
 
-(2) Camera Utilization
+(2) カメラの活用
 
-- Biometric feature vectors extracted from facial images may be collected to provide user recognition functions. This data is used only for user authentication and security enhancement, is encrypted during storage, and is not shared with third parties.
-- Health information measured through the camera is used only for health checks and does not provide any medical advice or information.
+- 利用者の顔認識機能提供のため、顔画像から抽出された生体特徴ベクトルを収集することがあります。当該データは利用者認証およびセキュリティ強化の目的でのみ使用され、保存時に暗号化され、第三者と共有されることはありません。
+- また、カメラを通じて測定した健康情報は健康チェックにのみ利用し、いかなる医療情報も提供しません。
 
-### 10. Personal Information Protection Officer
+### 10. 個人情報保護責任者
 
-- Email: deepmedicorp@gmail.com, demianjun@gmail.com
+- Eメール : deepmedicorp@gmail.com, demianjun@gmail.com
