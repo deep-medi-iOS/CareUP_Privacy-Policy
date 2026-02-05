@@ -1,86 +1,86 @@
 # Privacy Policy
 
-CareUP(Calibration) establishes and discloses this Privacy Policy in accordance with the Personal Information Protection Act to protect the personal information and rights of users and to smoothly process user grievances related to personal information.
+CareUP(补正) 根据《个人信息保护法》，为保护用户的个人信息及权益，特制定以下处理方针。
 
-The Company will notify users of any amendments to this Privacy Policy through the App screen or website announcements.
+公司在修改个人信息处理方针时，将通过应用界面及网站公告进行通知。
 
-### 1. Purpose of Processing Personal Information
+### 1. 个人信息的处理目的
 
-The Company complies with the responsibilities and obligations prescribed by the 「Act on Promotion of Information and Communications Network Utilization and Information Protection, etc.」 and the 「Personal Information Protection Act」 in managing personal information collected from service users.
+在管理从本服务用户处收集的个人信息时，公司遵守《信息通信网利用促进及信息保护等相关法律》、《个人信息保护法》中规定的责任和义务。
 
-The Company may collect non-personally identifiable information that is not directly related to a specific individual for iOS service functions and reward-based advertising services.
+公司在提供iOS服务功能及奖励型广告服务时，可能会收集与特定个人无直接关联、无法识别个人身份的信息。
 
-### 2. Status of Personal Information Files
+### 2. 个人信息文件现状
 
-The Company does not store or use separate personal information files or cookies.
+公司不另行保存或使用个人信息文件及Cookie。
 
-However, information used by store services and advertising services is processed through the SDKs of those respective services. This information is not stored by the Company.
+但是，应用商店服务使用的信息及广告服务使用的信息将通过相关服务的SDK进行处理。这些信息不存储在公司服务器上。
 
-Users should contact the respective services (Apple and each advertising media) directly for inquiries regarding such data.
+用户对此如有疑问，应直接联系相关服务方（苹果及各广告媒体）。
 
-### 3. Processing and Retention Period of Personal Information
+### 3. 个人信息的处理及持有期间
 
-The items, purposes, and retention periods of personal information collected by the Company are as follows:
+公司收集的个人信息项目、目的及持有期间如下：
 
-| Purpose of Collection | Collected Items | Retention / Use Period |
+| 收集目的 | 收集项目 | 持有 / 使用期间 |
 | --- | --- | --- |
-| User Identification | Real-time facial landmark data | Destroyed immediately after identification |
-| Storage of cardiovascular calibration results | Cardiovascular indicators, heart rate, consultation details | Destroyed immediately upon membership withdrawal |
+| 用户识别 | 实时面部特征点数据 | 用户识别后立即销毁 |
+| 保存心血管指标补正结果 | 心血管指标、心率、咨询内容 | 注销会员时立即销毁 |
 
-### 4. Collection and Processing of Facial Data
+### 4. 面部数据的收集与处理
 
-(1) Purpose of Collection and Processing
+(1) 面部数据收集与处理的目的
 
-- The Company processes the user's facial data in real-time through the camera to provide the 'Calibration Function' within the app.
+- 公司为了在应用内提供“补正功能”，通过摄像头实时处理用户的面部数据。
 
-(2) Processing Method and Storage
+(2) 处理方式及保存
 
-- Facial data (camera frames) collected from the camera during the measurement process is processed only temporarily (approx. 1/30 sec) within the device's memory. This data is used solely for real-time analysis, and **all frames are destroyed in an unrecoverable manner immediately upon completion of the measurement.**
+- 测量过程中从摄像头收集的面部数据（摄像头帧）仅在设备内部内存中进行临时处理（约1/30秒）。该数据仅用于实时分析，**测量结束后，所有帧将立即以不可恢复的方式销毁**。
 
-(3) Storage and Transmission
+(3) 存储与传输
 
-- The Company does not permanently store the user's facial images in any form nor transmit them to external servers or third parties.
-    - Wellness Indicators (e.g., heart rate): Stored on the Company's encrypted server (only upon user opt-in).
-    - Facial Feature Vectors (for identification): Encrypted via TLS 1.2+ during transmission to AWS Rekognition (for matching purposes only) and protected with AES-256 encryption during storage.
+- 公司不会以任何形式永久存储用户的面部图像，也不会将其传输至外部服务器或第三方。
+    - 健康指标（如：心率）：存储在公司加密服务器（仅在用户选择加入时）
+    - 面部特征向量（识别用）：传输至AWS Rekognition（仅用于识别匹配）时采用TLS 1.2+加密，存储时采用AES-256加密。
 
-(4) Protective Measures
+(4) 保护措施
 
-- The Company complies with relevant laws and applies the latest security technologies to ensure that sensitive biometric information is safely protected.
+- 公司遵守相关法律法规，应用最新的安全技术处理信息，确保用户的敏感生物识别信息得到安全保护。
 
-### 5. Provision of Personal Information to Third Parties
+### 5. 关于个人信息向第三方提供的事项
 
-The Company does not provide personal information to third parties.
+公司不向第三方提供个人信息。
 
-### 6. Outsourcing of Personal Information Processing.
+### 6. 个人信息处理委托
 
-The Company does not outsource the processing of personal information.
+公司未委托他人处理个人信息。
 
-### 7. Rights, Obligations of Data Subjects, and Exercise Methods
+### 7. 信息主体的权利、义务及行使方法
 
-Users may exercise their rights as data subjects:
+用户作为个人信息主体，可以行使以下权利：
 
-1. Request for inspection of personal information
-2. Request for correction in case of errors
-3. Request for deletion
-4. Request for suspension of processing
+1. 要求查阅个人信息
+2. 发现错误时要求更正
+3. 要求删除
+4. 要求停止处理
 
-### 8. Destruction of Personal Information
+### 8. 个人信息的销毁
 
-The App is a standalone application that uses a separate server and deletes all information immediately upon membership withdrawal.
+本应用采用独立运行方式，使用独立服务器，并在用户注销会员时删除所有信息。
 
-### 9. Items of Personal Information Processed
+### 9. 处理的个人信息项目
 
-1. CareUP(Calibration) requests the following permissions for the purpose of providing services:
+1. CareUP(补正) 为提供服务之目的，要求获取以下应用权限：
 
-(1) Camera Access Permission
+(1) 摄像头访问权限
 
-- The App requires camera access to identify users and measure health information (cardiovascular indicators, heart rate).
+- 应用为识别用户及测量健康信息（心血管指标、心率），要求获取摄像头访问权限。
 
-(2) Camera Utilization
+(2) 摄像头利用
 
-- Biometric feature vectors extracted from facial images may be collected to provide user recognition functions. This data is used only for user authentication and security enhancement, is encrypted during storage, and is not shared with third parties.
-- Health information measured through the camera is used only for health checks and does not provide any medical advice or information.
+- 为提供用户面部识别功能，可能会收集从面部图像中提取的生物特征向量。该数据仅用于用户认证及加强安全之目的，存储时会进行加密处理，且不与第三方共享。
+- 此外，通过摄像头测量的健康信息仅用于健康自测，不提供任何医疗信息。
 
-### 10. Personal Information Protection Officer
+### 10. 个人信息保护负责人
 
-- Email: deepmedicorp@gmail.com, demianjun@gmail.com
+- 电子邮箱 : deepmedicorp@gmail.com, demianjun@gmail.com
