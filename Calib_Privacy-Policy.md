@@ -1,86 +1,86 @@
 # Privacy Policy
 
-CareUP(Calibration) establishes and discloses this Privacy Policy in accordance with the Personal Information Protection Act to protect the personal information and rights of users and to smoothly process user grievances related to personal information.
+CareUP(보정)은 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다.
 
-The Company will notify users of any amendments to this Privacy Policy through the App screen or website announcements.
+당사는 개인정보처리방침을 개정하는 경우 앱 화면 및 웹사이트 공지사항을 통하여 공지할 것입니다.
 
-### 1. Purpose of Processing Personal Information
+### 1. 개인정보의 처리 목적
 
-The Company complies with the responsibilities and obligations prescribed by the 「Act on Promotion of Information and Communications Network Utilization and Information Protection, etc.」 and the 「Personal Information Protection Act」 in managing personal information collected from service users.
+본 서비스 이용자로부터 수집한 개인정보를 관리함에 있어서 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」, 「개인정보 보호법」에서 규정하고 있는 책임과 의무를 준수하고 있습니다.
 
-The Company may collect non-personally identifiable information that is not directly related to a specific individual for iOS service functions and reward-based advertising services.
+당사는 iOS 서비스 기능을 이용하기 위한 기능과 리워드용 광고서비스 등에서 특정 개인과 직접적인 관련이 없는, 개인식별이 불가능한 정보를 수집할 수 있습니다.
 
-### 2. Status of Personal Information Files
+### 2. 개인정보 파일 현황
 
-The Company does not store or use separate personal information files or cookies.
+당사는 별도의 개인정보 파일 및 쿠키를 저장, 사용하지 않습니다.
 
-However, information used by store services and advertising services is processed through the SDKs of those respective services. This information is not stored by the Company.
+단, 스토어 서비스가 이용하는 정보 및 광고서비스가 이용하는 정보는 해당 서비스의 SDK를 거쳐 이용하게 됩니다. 이는 당사에 저장되는 정보가 아닙니다.
 
-Users should contact the respective services (Apple and each advertising media) directly for inquiries regarding such data.
+이용자가 이에 대해 의문이 있다면 해당 서비스(애플 및, 각 광고 미디어)로 직접 연락해야 합니다.
 
-### 3. Processing and Retention Period of Personal Information
+### 3. 개인정보의 처리 및 보유기간
 
-The items, purposes, and retention periods of personal information collected by the Company are as follows:
+당사에서 수집하는 개인정보는 수집항목과 목적, 보유기간은 다음과 같습니다.
 
-| Purpose of Collection | Collected Items | Retention / Use Period |
+| 수집목적 | 수집항목 | 보유 / 이용기간 |
 | --- | --- | --- |
-| User Identification | Real-time facial landmark data | Destroyed immediately after identification |
-| Storage of cardiovascular calibration results | Cardiovascular indicators, heart rate, consultation details | Destroyed immediately upon membership withdrawal |
+| 사용자 식별 | 실시간 얼굴 특징점 데이터 | 사용자 식별 후 즉시 파기 |
+| 심혈관 지표 보정 결과 저장 | 심혈관지표, 심박수, 상담 내용 | 회원탈퇴 시 즉시 파기 |
 
-### 4. Collection and Processing of Facial Data
+### 4. 얼굴 데이터의 수집 및 처리
 
-(1) Purpose of Collection and Processing
+(1) 얼굴 데이터의 수집 및 처리 목적
 
-- The Company processes the user's facial data in real-time through the camera to provide the 'Calibration Function' within the app.
+- 당사는 앱 내 '보정 기능' 제공을 위하여 사용자의 얼굴 데이터를 카메라를 통해 실시간으로 처리합니다.
 
-(2) Processing Method and Storage
+(2) 처리 방식 및 보관
 
-- Facial data (camera frames) collected from the camera during the measurement process is processed only temporarily (approx. 1/30 sec) within the device's memory. This data is used solely for real-time analysis, and **all frames are destroyed in an unrecoverable manner immediately upon completion of the measurement.**
+- 측정 과정에서 카메라로부터 수집된 얼굴 데이터(카메라 프레임)는 기기 내부의 메모리 상에서만 일시적으로(약 1/30초) 처리됩니다. 해당 데이터는 실시간 분석을 위한 용도로만 사용되며, **측정 종료 즉시 모든 프레임은 복구가 불가능한 방법으로 파기**됩니다.
 
-(3) Storage and Transmission
+(3) 저장 및 전송
 
-- The Company does not permanently store the user's facial images in any form nor transmit them to external servers or third parties.
-    - Wellness Indicators (e.g., heart rate): Stored on the Company's encrypted server (only upon user opt-in).
-    - Facial Feature Vectors (for identification): Encrypted via TLS 1.2+ during transmission to AWS Rekognition (for matching purposes only) and protected with AES-256 encryption during storage.
+- 당사는 사용자의 얼굴 이미지를 어떠한 형태로도 영구적으로 저장하거나 외부 서버 및 제3자에게 전송하지 않습니다.
+    - 웰니스 지표(예: 심박수): 자사 암호화 서버(사용자 옵트인 시)
+    - 얼굴 특징 벡터(식별용): AWS Rekognition(식별 매칭 전용) 전송 시 TLS 1.2+ 암호화, 저장 시 AES‑256 암호화 적용
 
-(4) Protective Measures
+(4) 보호 조치
 
-- The Company complies with relevant laws and applies the latest security technologies to ensure that sensitive biometric information is safely protected.
+- 당사는 관련 법령을 준수하며, 사용자의 민감한 생체 정보가 안전하게 보호될 수 있도록 최신 보안 기술을 적용하여 처리합니다.
 
-### 5. Provision of Personal Information to Third Parties
+### 5. 개인정보의 제3자 제공에 관한 사항
 
-The Company does not provide personal information to third parties.
+당사는 개인정보를 제 3자에게 제공하고 있지 않습니다.
 
-### 6. Outsourcing of Personal Information Processing.
+### 6. 개인정보처리 위탁.
 
-The Company does not outsource the processing of personal information.
+당사는 개인정보를 위탁하고 있지 않습니다.
 
-### 7. Rights, Obligations of Data Subjects, and Exercise Methods
+### 7. 정보주체의 권리, 의무 및 그 행사방법
 
-Users may exercise their rights as data subjects:
+이용자는 개인정보주체로서 권리 행사할 수 있습니다.
 
-1. Request for inspection of personal information
-2. Request for correction in case of errors
-3. Request for deletion
-4. Request for suspension of processing
+1. 개인정보 열람요구
+2. 오류 등이 있을 경우 정정 요구
+3. 삭제요구
+4. 처리 정지 요구
 
-### 8. Destruction of Personal Information
+### 8. 개인정보의 파기
 
-The App is a standalone application that uses a separate server and deletes all information immediately upon membership withdrawal.
+당사의 어플리케이션은 독립 실행 방식의 어플리케이션으로 별도의 서버를 사용하며 회원탈퇴 시 모든 정보를 삭제합니다.
 
-### 9. Items of Personal Information Processed
+### 9. 처리하는 개인정보의 항목
 
-1. CareUP(Calibration) requests the following permissions for the purpose of providing services:
+1. CareUP(보정)은 서비스 제공을 목적으로 앱 이용을 위해 아래와 같은 권한을 요구합니다.
 
-(1) Camera Access Permission
+(1) 카메라 접근 권한
 
-- The App requires camera access to identify users and measure health information (cardiovascular indicators, heart rate).
+- 앱은 이용자 식별 및 건강정보(심혈관지표, 심박수) 측정을 위해 카메라 접근 권한을 요구합니다.
 
-(2) Camera Utilization
+(2) 카메라 활용
 
-- Biometric feature vectors extracted from facial images may be collected to provide user recognition functions. This data is used only for user authentication and security enhancement, is encrypted during storage, and is not shared with third parties.
-- Health information measured through the camera is used only for health checks and does not provide any medical advice or information.
+- 사용자의 얼굴 인식 기능 제공을 위해 얼굴 이미지로부터 추출된 생체 특징 벡터를 수집할 수 있습니다. 해당 데이터는 사용자 인증 및 보안 강화를 위한 목적으로만 사용되며, 저장 시 암호화되며 제 3자와 공유되지 않습니다.
+- 또한 카메라를 통해 측정한 건강정보는 건강체크에만 이용하며 어떠한 의료정보도 제공하지 않습니다.
 
-### 10. Personal Information Protection Officer
+### 10. 개인정보  보호책임자 작성
 
-- Email: deepmedicorp@gmail.com, demianjun@gmail.com
+- 이메일 : [deepmedicorp@gmail.com](mailto:deepmedicorp@gmail.com), [demianjun@gmail.com](mailto:demianjun@gmail.com)
